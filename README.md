@@ -1,1 +1,1 @@
-Moved to https://gitlab.com/timmc/kpawebgen
+Moved to https://codeberg.org/timmc/kpawebgen
